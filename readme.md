@@ -13,19 +13,19 @@
 
 Неделя 1. Введение. Примеры задач. Логические методы: решающие деревья и решающие леса.
 ---------------------------------------------------------------------------------------
-1) Предобработка данных в Pandas  
-2) Важность признаков
+1) [Предобработка данных в Pandas] 
+2) [Важность признаков]
 
 Неделя 2. Метрические методы классификации. Линейные методы, стохастический градиент.
 -------------------------------------------------------------------------------------
-3) Выбор числа соседей  
-4) Выбор метрики  
-5) Нормализация признаков
+3) [Выбор числа соседей]  
+4) [Выбор метрики]  
+5) [Нормализация признаков]
 
 Неделя 3. Метод опорных векторов (SVM). Логистическая регрессия. Метрики качества классификации.
 ------------------------------------------------------------------------------------------------
-6) Опорные объекты  
-7) Анализ текстов  
+6) [Опорные объекты]  
+7) [Анализ текстов]  
 8) Логистическая регрессия  
 9) Метрики качества классификации  
 
@@ -47,3 +47,10 @@
 ------------------------------------------------------------------------
 15) Проект: предсказания победителя в онлайн-игре
 
+[Предобработка данных в Pandas]: https://github.com/aKumpan/hse-shad-ml/blob/master/01-titanic/pandas/pandas.ipynb
+[Важность признаков]: https://github.com/aKumpan/hse-shad-ml/blob/master/01-titanic/statement-importance/statement-importance.ipynb
+[Выбор числа соседей]: https://github.com/aKumpan/hse-shad-ml/blob/master/02-metric_classification/statement_neighbours/statement_neighbours.ipynb  
+[Выбор метрики]: https://github.com/aKumpan/hse-shad-ml/blob/master/02-metric_classification/statement_metric_tuning/statement_metric_tuning.ipynb
+[Нормализация признаков]: https://github.com/aKumpan/hse-shad-ml/blob/master/02-metric_classification/statement_linear/statement_linear.ipynb
+[Опорные объекты]: https://github.com/aKumpan/hse-shad-ml/blob/master/03-svm_and_logistic_regression/statement-svm/statement-svm.ipynb
+[Анализ текстов]: https://github.com/aKumpan/hse-shad-ml/blob/master/03-svm_and_logistic_regression/statement-svm-texts/statement-svm-texts.ipynb
